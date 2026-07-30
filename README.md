@@ -62,16 +62,6 @@ contact:   jishnupunnol@gmail.com
 
 <br/>
 
-<!-- ══════════════════ GITHUB STATS ══════════════════ -->
-## &nbsp; 📊 &nbsp; GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jishnupunnol&show_icons=true&count_private=true&theme=github_dark&hide_border=true&title_color=B22222&icon_color=B22222" alt="stats"/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jishnupunnol&layout=compact&theme=github_dark&hide_border=true&title_color=B22222" alt="top langs"/>
-</p>
-
-<br/>
-
 <!-- ══════════════════ CONNECT ══════════════════ -->
 ## &nbsp; 🤝 &nbsp; Connect
 
