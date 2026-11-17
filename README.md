@@ -24,9 +24,10 @@ I'm a **security researcher and penetration tester** focused on offensive securi
 ### What I do
 
 <p align="center">
-  <img src="assets/card-security.svg" width="264" alt="Offensive Security — Web &amp; API, AI / LLM, Mobile, SAST, Bug Bounty, Tooling"/>
-  <img src="assets/card-mern.svg" width="264" alt="MERN Stack — MongoDB, Express, React, Node.js, REST APIs, Dashboards"/>
-  <img src="assets/card-gamedev.svg" width="264" alt="Game Development — Unity, Unreal Engine, C#, C++, Gameplay Systems"/>
+  <img src="assets/card-security.svg" width="400" alt="Offensive Security — Web &amp; API, AI / LLM, Mobile, SAST, Bug Bounty, Tooling"/>
+  <img src="assets/card-mern.svg" width="400" alt="MERN Stack — MongoDB, Express, React, Node.js, REST APIs, Dashboards"/>
+  <img src="assets/card-gamedev.svg" width="400" alt="Game Development — Unity, Unreal Engine, C#, C++, Gameplay Systems"/>
+  <img src="assets/card-finance.svg" width="400" alt="Accounting &amp; Audit — Accounting, Auditing, Financial Reporting, Compliance"/>
 </p>
 
 ### Featured project
@@ -45,7 +46,7 @@ I'm a **security researcher and penetration tester** focused on offensive securi
 | **AI / LLM Security** | OWASP LLM Top 10 · prompt injection & jailbreaks · system-prompt and data leakage · RAG poisoning · agent, tool-calling & MCP abuse |
 | **Source Code (SAST)** | Multi-language injection chains · JavaScript taint analysis · secrets · insecure crypto |
 | **Mobile** | Android/iOS instrumentation · SSL-pinning bypass · traffic interception |
-| **Network & Recon** | Subdomain enumeration & takeover · port and service discovery · live CVE correlation |
+| **Recon & CVE Intelligence** | Subdomain enumeration & takeover · live CVE correlation |
 | **Verification** | Out-of-band confirmation · false-positive suppression · automated PoC generation |
 | **AI Reporting** | Attack-chain discovery · context-aware findings · clean PDF reports |
 
