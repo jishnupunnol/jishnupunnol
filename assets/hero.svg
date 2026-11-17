@@ -35,7 +35,7 @@
     </g>
   </g>
   <circle cx="62" cy="74" r="5" fill="#E5484D"><animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/></circle>
-  <text x="78" y="79" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" letter-spacing="2.5" fill="#9da7b3">SECURITY RESEARCHER  /  MERN DEVELOPER  /  GAME DEVELOPER</text>
+  <text x="78" y="79" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="2" fill="#9da7b3">SECURITY RESEARCHER / MERN DEVELOPER / GAME DEVELOPER / ACCOUNTANT</text>
   <text x="54" y="160" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="64" font-weight="800" letter-spacing="-1.5" fill="url(#name)">Jishnu Sudhakaran</text>
   <text x="56" y="204" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" fill="#9da7b3">I break things to make them safer, and build things people enjoy.</text>
   <text x="56" y="268" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#6e7681"><tspan fill="#E5484D">~ $</tspan> whoami --highlights</text>

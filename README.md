@@ -24,10 +24,10 @@ I'm a **security researcher and penetration tester** focused on offensive securi
 ### What I do
 
 <p align="center">
-  <img src="assets/card-security.svg" width="400" alt="Offensive Security — Web &amp; API, AI / LLM, Mobile, SAST, Bug Bounty, Tooling"/>
-  <img src="assets/card-mern.svg" width="400" alt="MERN Stack — MongoDB, Express, React, Node.js, REST APIs, Dashboards"/>
-  <img src="assets/card-gamedev.svg" width="400" alt="Game Development — Unity, Unreal Engine, C#, C++, Gameplay Systems"/>
-  <img src="assets/card-finance.svg" width="400" alt="Accounting &amp; Audit — Accounting, Auditing, Financial Reporting, Compliance"/>
+  <img src="assets/card-security.svg" width="300" alt="Offensive Security — Web &amp; API, AI / LLM, Mobile, SAST, Bug Bounty, Tooling"/>
+  <img src="assets/card-mern.svg" width="300" alt="MERN Stack — MongoDB, Express, React, Node.js, REST APIs, Dashboards"/>
+  <img src="assets/card-gamedev.svg" width="300" alt="Game Development — Unity, Unreal Engine, C#, C++, Gameplay Systems"/>
+  <img src="assets/card-finance.svg" width="300" alt="Accounting &amp; Audit — Accounting, Auditing, Financial Reporting, Compliance"/>
 </p>
 
 ### Featured project
